@@ -5,6 +5,8 @@
        alt="snake" />
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ElectronicBg&label=Profile%20views&color=0e75b6&style=flat" alt="dps1lence" /> </p>
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22175002/emil-neshkov?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="221750021" height="30" width="40" /></a>

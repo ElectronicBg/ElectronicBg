@@ -17,7 +17,7 @@
 <a href="https://fb.com/EmilNeshkov05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="емил нешков" height="30" width="40" /></a>
 <a href="https://instagram.com/emil_neshkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emil_neshkov" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@emilneshkov6848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@emilneshkov6848" height="30" width="40" /></a>
-<a href="https://discord.gg/337233731507060737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="337233731507060737" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/337233731507060737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="337233731507060737" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

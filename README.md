@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emil_neshkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil_neshkov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emil-neshkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil_neshkov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22175002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22175002" height="30" width="40" /></a>
-<a href="https://fb.com/емил нешков" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="емил нешков" height="30" width="40" /></a>
+<a href="https://fb.com/EmilNeshkov05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="емил нешков" height="30" width="40" /></a>
 <a href="https://instagram.com/emil_neshkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emil_neshkov" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@emilneshkov6848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@emilneshkov6848" height="30" width="40" /></a>
 <a href="https://discord.gg/337233731507060737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="337233731507060737" height="30" width="40" /></a>

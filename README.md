@@ -40,4 +40,6 @@
 - [HTML & CSS](https://softuni.bg/certificates/details/174904/3e8d31a4)
   
 - [JS Front-End](https://softuni.bg/certificates/details/184318/be684c80)
+  
+- [MS SQL](https://softuni.bg/certificates/details/185821/f02fa460)
 

@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Emil</h1>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
-</div>
 
 <h3 align="center">Born in Bulgaria and studying in the vibrant city of Veliko Turnovo, I am an experienced Game Developer with four years of expertise in Unity. Currently focused on studying C# for web development, I am expanding my skill set to embrace the dynamic world of web applications.</h3>
 
